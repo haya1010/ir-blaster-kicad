@@ -1,0 +1,16 @@
+Reference,Qty,Value,Description,Footprint / notes
+J1,1,JST-PH 4-pin,Grove/M5 cable connector,2.00 mm vertical
+D1 D2 D3,3,940 nm IR LED,High-output 5 mm IR emitter,Vishay TSAL6200 or equivalent
+D4,1,Visible LED,TX activity indicator,3 mm through-hole
+R1,1,100 ohm,MOSFET gate resistor,0805
+R2,1,100 kohm,MOSFET gate pull-down,0805
+R3 R4 R5,3,33 ohm,IR LED current limiting 0.5 W pulse-rated,0805 high-power
+R6,1,100 ohm,IR receiver supply filter,0805
+R7,1,1 kohm,Visible LED current limiting,0805
+Q1,1,AO3400A,N-channel logic-level MOSFET,SOT-23
+U1,1,MCP1700-3302,3.3 V LDO regulator,SOT-23
+U2,1,TSOP38238,38 kHz IR receiver,Through-hole 3-pin 2.54 mm
+C1 C2,2,1 uF 10 V,LDO input/output capacitors,0805 X7R
+C3,1,4.7 uF 10 V,IR receiver supply filter,0805 X7R
+C4,1,100 nF,IR receiver local bypass,0805 X7R
+H1 H2 H3 H4,4,M3 mounting hole,NPTH,3.2 mm drill

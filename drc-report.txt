@@ -1,0 +1,10 @@
+** Drc report for m5_ir_blaster.kicad_pcb **
+** Created on 2026-07-31T15:13:33+0900 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

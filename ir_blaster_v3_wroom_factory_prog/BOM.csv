@@ -1,0 +1,4 @@
+Reference,Qty,Value,Manufacturer,MPN,JLC/LCSC,Assembly,Notes
+U1,1,ESP32-WROOM-32E-N16,Espressif Systems,ESP32-WROOM-32E-N16,C701343,SMT / Standard PCBA,16MB flash; X-ray required by JLCPCB
+J_PROG,1,1x6 2.54mm male header,Samtec-compatible,TSW-106-07-G-S compatible,DNP,DNP,"1.0mm drill, 1.7mm pad"
+TP_PROG_*,6,2.4mm bottom pogo pads,PCB feature,N/A,N/A,PCB only,"1x6 straight, 3.81mm pitch"

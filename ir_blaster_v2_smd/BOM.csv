@@ -1,0 +1,10 @@
+Reference,Qty,Value,Footprint,Manufacturer,MPN,JLC/LCSC,Assembly method,Notes
+"D1,D4,D7,D10",4,940nm IR LED wide 100°,OSI5LA7WA1B,OptoSupply,OSI5LA7WA1B,DNP,THT / DNP,"User hand solder; pin 1=A, 2=K"
+"D2,D3,D5,D6,D8,D9,D11,D12",8,940nm IR LED narrow 30°,OSI5LA5A33A-B,OptoSupply,OSI5LA5A33A-B,DNP,THT / DNP,"User hand solder; pin 1=A, 2=K"
+R1-R12,12,100R 0.25W,R_1206_3216Metric,UNI-ROYAL,1206W4F1000T5E,C17901,SMT / top,1206 selected for pulse-power margin
+RG,1,220R,R_0603_1608Metric,UNI-ROYAL,0603WAF2200T5E,C22962,SMT / top,Gate series resistor
+RPD,1,10k,R_0603_1608Metric,UNI-ROYAL,0603WAF1002T5E,C25804,SMT / top,Gate pull-down
+Q1,1,AO3400A,SOT-23,Alpha & Omega Semiconductor,AO3400A,C20917,SMT / top,Logic-level N-MOSFET; 1=G 2=S 3=D
+Cdec,1,100nF 50V X7R,C_0603_1608Metric,Samsung Electro-Mechanics,CL10B104KB8NNNC,C14663,SMT / top,Local decoupling
+Cbulk,1,1000uF 10V,Radial P5.0mm,TBD,1000uF >=10V radial,DNP,THT / DNP,Cost option: user hand solder; diameter <=8mm
+"J1,J2",2,1x19 2.54mm socket,ESP32_DevKitC_V4_1x19,User supplied,2.54mm female socket 1x19,DNP,THT / DNP,User hand solder; 25.40mm row spacing

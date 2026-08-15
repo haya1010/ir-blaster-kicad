@@ -1,0 +1,10 @@
+Reference,Qty,Value,Footprint,Manufacturer,MPN,JLC/LCSC,Assembly method,Notes
+"D1,D4,D7,D10",4,940nm IR LED wide 100°,OSI5LA7WA1B,OptoSupply,OSI5LA7WA1B,Not verified in live JLC library,THT / DNP,"User hand solder; pin 1=A, 2=K"
+"D2,D3,D5,D6,D8,D9,D11,D12",8,940nm IR LED narrow 30°,OSI5LA5A33A-B,OptoSupply,OSI5LA5A33A-B,Not verified in live JLC library,THT / DNP,"User hand solder; pin 1=A, 2=K"
+R1-R12,12,100R 0.25W,R_Axial_DIN0207_P10.16mm,TBD,100 ohm axial 1/4W,Select exact stocked wave-solder part at order,THT / wave/manual,PCBA candidate
+RG,1,220R 0.25W,R_Axial_DIN0207_P10.16mm,TBD,220 ohm axial 1/4W,Select exact stocked wave-solder part at order,THT / wave/manual,PCBA candidate
+RPD,1,10k 0.25W,R_Axial_DIN0207_P10.16mm,TBD,10k axial 1/4W,Select exact stocked wave-solder part at order,THT / wave/manual,PCBA candidate
+Q1,1,N-MOSFET,INK021ABS1_TO92S,ISAHAYA Electronics,INK021ABS1-T112,No exact JLC result verified,THT / global sourcing or consigned,Do not substitute without approval; 1=S 2=D 3=G
+Cbulk,1,1000uF 10V,Radial P5.0mm,TBD,1000uF >=10V radial,Select exact stocked wave-solder part at order,THT / wave/manual,Verify diameter <=8mm
+Cdec,1,100nF,Radial P2.54mm,TBD,100nF leaded ceramic,Select exact stocked wave-solder part at order,THT / wave/manual,PCBA candidate
+"J1,J2",2,1x19 2.54mm socket,ESP32_DevKitC_V4_1x19,User supplied,2.54mm female socket 1x19,N/A,THT / DNP,User hand solder; 25.40mm row spacing
