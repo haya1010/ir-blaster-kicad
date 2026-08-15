@@ -332,8 +332,8 @@ def generate_bom() -> None:
         w.writerow(["ESP32-WROOM-32E-N16", "U1", "ESP32-WROOM-32E", "C701343"])
     with (OUT / "assembly" / "CPL_JLCPCB.csv").open("w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["Designator", "Mid X", "Mid Y", "Layer", "Rotation"])
-        w.writerow(["U1", "100.000mm", "80.000mm", "Top", 0])
+        w.writerow(["Designator", "Mid X", "Mid Y", "Rotation", "Layer"])
+        w.writerow(["U1", "100.000mm", "-80.000mm", 0, "Top"])
 
 
 def main() -> None:
