@@ -1,3 +1,4 @@
+# KiCad local/editor state
 *.lck
 *.kicad_prl
 *.kicad_sch-bak
@@ -5,3 +6,20 @@
 .DS_Store
 m5_ir_blaster_revA_project.zip
 m5_ir_blaster_revA_project_with_smd_pcba.zip
+
+# Python/cache and local scratch output
+__pycache__/
+*.pyc
+tmp/
+
+# Intermediate routing and superseded validation reports
+ir_blaster_v4_complete-drc.rpt
+ir_blaster_v4_complete/filled-drc-errors.txt
+ir_blaster_v4_complete/placement-drc-errors.txt
+ir_blaster_v4_complete/placement-drc.txt
+ir_blaster_v4_complete/post-route-errors.txt
+ir_blaster_v4_complete/routed-drc.txt
+ir_blaster_v4_complete/erc-report.txt
+ir_blaster_v4_complete/drc-report.txt
+ir_blaster_v4_complete/manufacturing/*.dsn
+ir_blaster_v4_complete/manufacturing/*.ses
