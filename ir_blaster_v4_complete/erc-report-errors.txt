@@ -1,0 +1,212 @@
+ERC レポート (2026-08-16T21:16:19+0900, エンコーディング UTF8)
+
+***** シート /
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(35.56 mm, 41.91 mm): シンボル J1 [USB_C_16P]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(62.23 mm, 41.91 mm): シンボル U2 [LDO3]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(35.56 mm, 69.85 mm): シンボル R_CC1 [R2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(62.23 mm, 59.69 mm): シンボル C1 [C2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(35.56 mm, 82.55 mm): シンボル R_CC2 [R2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(80.01 mm, 41.91 mm): シンボル C4 [C2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(62.23 mm, 72.39 mm): シンボル C2 [C2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(80.01 mm, 54.61 mm): シンボル C5 [C2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(80.01 mm, 66.04 mm): シンボル R_EN [R2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(62.23 mm, 83.82 mm): シンボル C3 [C2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(80.01 mm, 77.47 mm): シンボル C_EN [C2]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(62.23 mm, 101.60 mm): シンボル SW_RESET [SW2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(62.23 mm, 101.60 mm): シンボル SW_RESET [SW2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(80.01 mm, 90.17 mm): シンボル R_BOOT [R2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(80.01 mm, 101.60 mm): シンボル R_PAIR [R2]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(62.23 mm, 114.30 mm): シンボル SW_BOOT [SW2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(62.23 mm, 114.30 mm): シンボル SW_BOOT [SW2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 134.62 mm): シンボル R1 [R2_PWR]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(105.41 mm, 90.17 mm): シンボル U1 [ESP32_WROOM_32E]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(80.01 mm, 114.30 mm): シンボル SW_PAIR [SW2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(80.01 mm, 114.30 mm): シンボル SW_PAIR [SW2]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 134.62 mm): シンボル D1 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 134.62 mm): シンボル D1 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 142.24 mm): シンボル R2 [R2_PWR]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 142.24 mm): シンボル D2 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 142.24 mm): シンボル D2 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 149.86 mm): シンボル R3 [R2_PWR]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 149.86 mm): シンボル D3 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 149.86 mm): シンボル D3 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 157.48 mm): シンボル R4 [R2_PWR]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(85.09 mm, 138.43 mm): シンボル R_GATE [R2]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 157.48 mm): シンボル D4 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 157.48 mm): シンボル D4 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 165.10 mm): シンボル R5 [R2_PWR]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(85.09 mm, 149.86 mm): シンボル R_PD [R2]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 165.10 mm): シンボル D5 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 165.10 mm): シンボル D5 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 172.72 mm): シンボル R6 [R2_PWR]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(110.49 mm, 143.51 mm): シンボル Q1 [MOS3]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 172.72 mm): シンボル D6 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 172.72 mm): シンボル D6 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 180.34 mm): シンボル R7 [R2_PWR]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 180.34 mm): シンボル D7 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 180.34 mm): シンボル D7 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 187.96 mm): シンボル R8 [R2_PWR]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 187.96 mm): シンボル D8 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 187.96 mm): シンボル D8 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(110.49 mm, 162.56 mm): シンボル C_BULK [CP2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 195.58 mm): シンボル R9 [R2_PWR]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(144.78 mm, 138.43 mm): シンボル U_RX [RX3]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(144.78 mm, 138.43 mm): シンボル U_RX [RX3]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 195.58 mm): シンボル D9 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 195.58 mm): シンボル D9 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 201.93 mm): シンボル R10 [R2_PWR]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 201.93 mm): シンボル D10 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 201.93 mm): シンボル D10 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(144.78 mm, 153.67 mm): シンボル R_RX [R2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 209.55 mm): シンボル R11 [R2_PWR]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 209.55 mm): シンボル D11 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 209.55 mm): シンボル D11 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(30.48 mm, 217.17 mm): シンボル R12 [R2_PWR]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(144.78 mm, 166.37 mm): シンボル C_RX1 [C2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(175.26 mm, 138.43 mm): シンボル R_STATUS [R2]
+[footprint_link_issues]: 現在の構成にはフットプリント ライブラリ 'IRBlaster' が含まれていません。
+    ; warning
+    @(54.61 mm, 217.17 mm): シンボル D12 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(54.61 mm, 217.17 mm): シンボル D12 [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(144.78 mm, 177.80 mm): シンボル C_RX2 [C2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(175.26 mm, 149.86 mm): シンボル D_STATUS [LED2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(144.78 mm, 190.50 mm): シンボル C_RX3 [C2]
+[lib_symbol_issues]: 現在の構成にはシンボル ライブラリ 'IRBlaster' が含まれていません
+    ; warning
+    @(175.26 mm, 175.26 mm): シンボル J_PROG [PROG6]
+
+ ** ERC メッセージ: 69  エラー 0  警告 69

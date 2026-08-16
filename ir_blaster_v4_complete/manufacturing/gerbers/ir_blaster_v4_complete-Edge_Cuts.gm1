@@ -1,0 +1,28 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
+%TF.CreationDate,2026-08-16T21:16:21+09:00*%
+%TF.ProjectId,ir_blaster_v4_complete,69725f62-6c61-4737-9465-725f76345f63,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2026-08-16 21:16:21*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.250000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X139000000Y-100000000D02*
+G75*
+G02*
+X61000000Y-100000000I-39000000J0D01*
+G01*
+X61000000Y-100000000D02*
+G75*
+G02*
+X139000000Y-100000000I39000000J0D01*
+G01*
+M02*

@@ -1,0 +1,4 @@
+b336c28614b98798acaf58c4c6494da33a45244fbb1488b40da6af5a06193064  /private/tmp/ir-blaster-kicad-complete/ir_blaster_v4_complete/manufacturing/ir_blaster_v4_complete_gerbers.zip
+b5c181a8cf4f9727d3064e5737a54e465eb257e46c49c0997396e7ebcbc2a26b  /private/tmp/ir-blaster-kicad-complete/ir_blaster_v4_complete/assembly/BOM_JLCPCB.csv
+3391ab75c39568fa966b4625ec855c5bc233bc7c72de59c6aaf010da54f62416  /private/tmp/ir-blaster-kicad-complete/ir_blaster_v4_complete/assembly/CPL_JLCPCB.csv
+a8df948928e96151a17ff16d7e97cd08c58949049c6ed4670a408020d58acf97  /private/tmp/ir-blaster-kicad-complete/ir_blaster_v4_complete/release/ir_blaster_v4_complete_order_bundle.zip
